@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/3oldMantTeam/lack_fresh/issues"
   },
-  "homepage": "https://github.com/3oldMantTeam/lack_fresh#readme"
+  "homepage": "https://github.com/3oldMantTeam/lack_fresh#readme",
+  "dependencies": {
+    "element-ui": "^2.15.1"
+  }
 }
